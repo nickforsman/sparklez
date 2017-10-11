@@ -3,10 +3,14 @@ An interactive package finder for all major package registries (Currently only N
 Works with python3 should work with python2. Works on windows and mac, linux maybe.
 
 ## Installation
-``` pip3 install sparklez ```
+``` 
+pip3 install sparklez 
+```
 
 ## Usage
-``` sparklez [package] [options] ```
+``` 
+sparklez [package] [options] 
+```
 
 ## Options
 ```
